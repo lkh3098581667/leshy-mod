@@ -1,0 +1,48 @@
+{
+        "leshy:BonePower": {
+                "NAME": "骨头",
+                "DESCRIPTIONS": ["你有 ", " 根骨头。", " 根骨头。"]
+        },
+        "leshy:TotemPower": {
+                "NAME": "图腾",
+                "DESCRIPTIONS": [
+                        "犬类",
+                        "鸟类",
+                        "有蹄类",
+                        "昆虫",
+                        "爬行类",
+                        "松鼠",
+                        "混合体",
+                        " 和 ",
+                        "获得 "
+                ]
+        },
+        "leshy:TargetPower": {
+                "NAME": "目标",
+                "DESCRIPTIONS": ["生物优先攻击这个敌人。"]
+        },
+        "leshy:StinkyPower": {
+                "NAME": "臭臭",
+                "DESCRIPTIONS": ["减少攻击伤害 ", "。"]
+        },
+        "leshy:MagpiePower": {
+                "NAME": "喜鹊之眼",
+                "DESCRIPTIONS": ["在你的回合开始时，将 ", " 张卡牌 ", " 张卡牌 ", "从你的抽牌堆放入你的手牌。"]
+        },
+        "leshy:SacrificePower": {
+                "NAME": "牺牲",
+                "DESCRIPTIONS": [""]
+        },
+        "leshy:AlphaPower": {
+                "NAME": "首领",
+                "DESCRIPTIONS": [""]
+        },
+        "leshy:StuntedWolfPower": {
+                "NAME": "弱狼",
+                "DESCRIPTIONS": [""]
+        },
+        "leshy:BrokenEggPower": {
+                "NAME": "破碎的蛋",
+                "DESCRIPTIONS": ["造成 ", "% 较少的攻击伤害并防止下次受到伤害。"]
+        }
+}

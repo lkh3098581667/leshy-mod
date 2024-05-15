@@ -1,0 +1,534 @@
+{
+  "leshy:WoodcarverRelic": {
+    "NAME": "木雕面具",
+    "FLAVOR": "雕刻生物和符印的图腾。",
+    "DESCRIPTIONS": [
+      "每场战斗中，你可以右键点击选择一个图腾头部添加到你的图腾上。"
+    ]
+  },
+  "leshy:SquirrelDeckRelic": {
+    "NAME": "松鼠套牌",
+    "FLAVOR": "可爱的森林小动物。",
+    "DESCRIPTIONS": [
+      "在回合开始时，将一只松鼠添加到你的手牌。你可以右键点击耗尽一只松鼠并抽一张牌。"
+    ]
+  },
+  "leshy:MachineModificationRelic": {
+    "NAME": "机械改造",
+    "FLAVOR": "未走过的道路的力量。",
+    "DESCRIPTIONS": [
+      "获得一个栏位。"
+    ]
+  },
+  "leshy:CandlestickRelic": {
+    "NAME": "烛台",
+    "FLAVOR": "迷失灵魂聚集之地。",
+    "DESCRIPTIONS": [
+      "在Boss和精英战斗开始时，将一张烟雾添加到你的手牌。"
+    ]
+  },
+  "leshy:BoonOfGoatsBloodRelic": {
+    "NAME": "山羊血的恩惠",
+    "FLAVOR": "绝对不是邪教徒。",
+    "DESCRIPTIONS": [
+      "在战斗开始时，召唤一只带有 #y瞬逝的黑山羊。"
+    ]
+  },
+  "leshy:ProspectorMaskRelic": {
+    "NAME": "淘金者面具",
+    "FLAVOR": "我们发现了黄金！",
+    "DESCRIPTIONS": [
+      "在战斗开始时，召唤一个带有8点生命值的金块。"
+    ]
+  },
+  "leshy:AnglerMaskRelic": {
+    "NAME": "渔夫面具",
+    "FLAVOR": "去钓鱼吧。",
+    "DESCRIPTIONS": [
+      "在战斗开始时，召唤一个诱饵桶。"
+    ]
+  },
+  "leshy:TrapperMaskRelic": {
+    "NAME": "猎人面具",
+    "FLAVOR": "你想买些...皮毛吗？",
+    "DESCRIPTIONS": [
+      "皮毛获得10点生命值。"
+    ]
+  },
+  "leshy:BoonOfTheBoneLordRelic": {
+    "NAME": "骨王的恩惠",
+    "FLAVOR": "山羊值得吗？",
+    "DESCRIPTIONS": [
+      "在战斗开始时，获得", "骨头。"
+    ]
+  },
+  "leshy:MagicEyeRelic": {
+    "NAME": "魔法之眼",
+    "FLAVOR": "想知道它属于谁。",
+    "DESCRIPTIONS": [
+      "拾取时，获得一只发育不全的狼和一卷胶片。"
+    ]
+  },
+  "leshy:RedMushroomRelic": {
+    "NAME": "红蘑菇",
+    "FLAVOR": "不安全，不宜食用",
+    "DESCRIPTIONS": [
+      "拾取时，从你的牌组中选择并获得1个3个生物的基础复制。",
+      "选择一张卡牌获得其复制。"
+    ]
+  },
+  "leshy:TraderMaskRelic": {
+    "NAME": "商人面具",
+    "FLAVOR": "有...皮毛吗？",
+    "DESCRIPTIONS": [
+      "皮毛多给100金币。"
+    ]
+  },
+  "leshy:BottledSquirrelRelic": {
+    "NAME": "瓶装松鼠",
+    "FLAVOR": "天生的松鼠。",
+    "DESCRIPTIONS": [
+      "在战斗开始时，将一只松鼠添加到你的手牌。"
+    ]
+  },
+  "leshy:SnorkelRelic": {
+    "NAME": "呼吸管",
+    "FLAVOR": "连海洋也救不了你。",
+    "DESCRIPTIONS": [
+      "松鼠获得 #y水生和6点攻击力。"
+    ]
+  },
+  "leshy:InfestedPeltRelic": {
+    "NAME": "虫蚀皮毛",
+    "FLAVOR": "充满了...好东西？",
+    "DESCRIPTIONS": [
+      "拾取时，获得3张狼皮毛。当你召唤皮毛时，召唤一只皮毛虱。"
+    ]
+  },
+  "leshy:TheMoonRelic": {
+    "NAME": "月亮",
+    "FLAVOR": "最后的阶段。",
+    "DESCRIPTIONS": [
+      "当你即将死亡时，恢复至最大生命值的30%并召唤月亮（仅一次有效）。"
+    ]
+  },
+  "leshy:MycologistMaskRelic": {
+    "NAME": "菌类学家面具",
+    "FLAVOR": "我觉得这会变得很混乱。",
+    "DESCRIPTIONS": [
+      "在菌类学家处选择复制品时，你可以从你的牌组中选择任何生物。"
+    ]
+  },
+  "leshy:AcornRelic": {
+    "NAME": "橡子",
+    "FLAVOR": "食物！",
+    "DESCRIPTIONS": [
+      "松鼠获得2点攻击力和生命值。"
+    ]
+  },
+  "leshy:SquirrelArmorRelic": {
+    "NAME": "松鼠盔甲",
+    "FLAVOR": "它们怎么在这里移动？",
+    "DESCRIPTIONS": [
+      "松鼠获得 #y装甲。"
+    ]
+  },
+  "leshy:TrenchCoatRelic": {
+    "NAME": "风衣",
+    "FLAVOR": "绝对不是松鼠。",
+    "DESCRIPTIONS": [
+      "拾取时，选择一个生物获得松鼠部族。",
+      "选择一个生物获得松鼠部族。"
+    ]
+  },
+  "leshy:BallOfSquirrelsRelic": {
+    "NAME": "松鼠球",
+    "FLAVOR": "无尽的潮流。",
+    "DESCRIPTIONS": [
+      "替换 #y松鼠 #y套牌。 NL 在每个回合开始时，将2只松鼠添加到你的手牌。每回合抽一张牌少一张。"
+    ]
+  },
+  "leshy:CloverRelic": {
+    "NAME": "三叶草",
+    "FLAVOR": "你一定不喜欢我给你的卡牌。",
+    "DESCRIPTIONS": [
+      "右键点击，重掷你的战斗奖励或宝箱内容。可使用3次。"
+    ]
+  },
+  "leshy:PetFoodRelic": {
+    "NAME": "宠物食品",
+    "FLAVOR": "我们有适合每个人的东西！",
+    "DESCRIPTIONS": [
+      "与你图腾匹配的生物获得1点攻击力和生命值。"
+    ]
+  },
+  "leshy:GreatKrakenRelic": {
+    "NAME": "巨大克拉肯",
+    "FLAVOR": "很高兴在这里遇见你。",
+    "DESCRIPTIONS": [
+      "拾取时，选择并获得一个触手。",
+      "选择一张卡牌获得。"
+    ]
+  },
+  "leshy:PileOfTeethRelic": {
+    "NAME": "一堆牙齿",
+    "FLAVOR": "这些从哪里来的？",
+    "DESCRIPTIONS": [
+      "当你过度杀戮一个怪物时，获得等于过度杀戮伤害的金币。"
+    ]
+  },
+  "leshy:TombstoneRelic": {
+    "NAME": "墓碑",
+    "FLAVOR": "死于柠檬。",
+    "DESCRIPTIONS": [
+      "带有骨头成本的生物获得4点攻击力。"
+    ]
+  },
+  "leshy:WhiteRockRelic": {
+    "NAME": "白色岩石",
+    "FLAVOR": "只需加上熊。",
+    "DESCRIPTIONS": [
+      "在每个回合开始时，获得3点力量，所有敌人获得1点力量。"
+    ]
+  },
+  "leshy:DogTreatRelic": {
+    "NAME": "狗零食",
+    "FLAVOR": "给最好的男孩。",
+    "DESCRIPTIONS": [
+      "拾取时，随机升级2个生物。"
+    ]
+  },
+  "leshy:BoulderRelic": {
+    "NAME": "巨石",
+    "FLAVOR": "它是一块岩石。",
+    "DESCRIPTIONS": [
+      "在你的回合结束时，如果你的生物当前生命值少于", "，召唤一个与差值相同生命值的巨石。"
+    ]
+  },
+  "leshy:ChickenEggRelic": {
+    "NAME": "鸡蛋",
+    "FLAVOR": "先有鸡还是先有蛋，还是这个无聊的问题？",
+    "DESCRIPTIONS": [
+      "每当你向牌组中添加一张生物牌，它就会被升级。"
+    ]
+  },
+  "leshy:BloodstoneRelic": {
+    "NAME": "血石",
+    "FLAVOR": "当松鼠放下橡子去战斗时。",
+    "DESCRIPTIONS": [
+      "对于本场战斗中死于伤害的每只松鼠，松鼠获得1点攻击力和生命值。"
+    ]
+  },
+  "leshy:TinyHeadbandRelic": {
+    "NAME": "小头带",
+    "FLAVOR": "有人看到松鼠了吗？",
+    "DESCRIPTIONS": [
+      "在回合结束时，如果你本回合召唤了3只或更多的松鼠，给予活跃的生物2点攻击力和生命值。"
+    ]
+  },
+  "leshy:RecruitmentPosterRelic": {
+    "NAME": "招募海报",
+    "FLAVOR": "松鼠来了。",
+    "DESCRIPTIONS": [
+      "在战斗开始时，将3只松鼠添加到你的抽牌堆。"
+    ]
+  },
+  "leshy:PaintbrushRelic": {
+    "NAME": "画笔",
+    "FLAVOR": "前任主人是一株灌木。",
+    "DESCRIPTIONS": [
+      "在战斗开始时，没有部族的生物获得 #y无形之物。"
+    ]
+  },
+  "leshy:QuillRelic": {
+    "NAME": "羽毛笔",
+    "FLAVOR": "唤醒死者。",
+    "DESCRIPTIONS": [
+      "右键点击，花费4个骨头添加3个生物中的1个到手牌，这些生物需要骨头来召唤。"
+    ]
+  },
+  "leshy:TotemPoleRelic": {
+    "NAME": "图腾柱",
+    "FLAVOR": "木雕是否已经过头了？",
+    "DESCRIPTIONS": [
+      "你的图腾可以有一个额外的基座。"
+    ]
+  },
+  "leshy:CameraRelic": {
+    "NAME": "相机",
+    "FLAVOR": "不朽的秘密。",
+    "DESCRIPTIONS": [
+      "每当有3个生物死于伤害，你可以用它们的成本、属性和符印制作一个融合怪。",
+      " 成本：血量 ",
+      " 成本：骨头 ",
+      " 成本： ",
+      " 攻击力： ",
+      " 生命值： "
+    ]
+  },
+  "leshy:LimoncelloRelic": {
+    "NAME": "柠檬酒",
+    "FLAVOR": "哟，哈哈。",
+    "DESCRIPTIONS": [
+      "当你失去生命值时，召唤一个骷髅船员。（每场战斗6次）"
+    ]
+  },
+  "leshy:PileOfMeatRelic": {
+    "NAME": "一堆肉",
+    "FLAVOR": "你要吃完它吗？",
+    "DESCRIPTIONS": [
+      "臭臭减少2点攻击伤害。"
+    ]
+  },
+  "leshy:OldShellRelic": {
+    "NAME": "老壳",
+    "FLAVOR": "像野兽一样生活将是最高贵的事。",
+    "DESCRIPTIONS": [
+      "黄鼠狼每有一个符印，就获得", "点攻击力和生命值。"
+    ]
+  },
+  "leshy:GoatEyeRelic": {
+    "NAME": "山羊眼",
+    "FLAVOR": "你好啊！",
+    "DESCRIPTIONS": [
+      "我相信这会很有用。"
+    ]
+  },
+  "leshy:HeraldOfTheScurryRelic": {
+    "NAME": "松鼠先驱",
+    "FLAVOR": "一只松鼠，两只松鼠，可爱又毛茸茸。三只松鼠，四只松鼠，何必如此匆忙？五只松鼠，六只松鼠，你应该担心。快跑，快藏，松鼠来了！",
+    "DESCRIPTIONS": [
+      "松鼠获得 #y双重 #y打击， #y领袖，和 #y狂暴者。"
+    ]
+  },
+  "leshy:ChimeraStatueRelic": {
+    "NAME": "奇美拉雕像",
+    "FLAVOR": "艾德...华德。",
+    "DESCRIPTIONS": [
+      "生物每有一个不同的部族在场上就获得1点攻击力。"
+    ]
+  },
+  "leshy:OldDataRelic": {
+    "NAME": "旧数据",
+    "FLAVOR": "01100100 01100101 01100101 01110000 01100010 01100101 01101110 01100101 01100001 01110100 01101000",
+    "DESCRIPTIONS": [
+      "木雕面具可以在你的图腾上添加3个图腾头。",
+      "最左边栏位中的生物可以额外触发回合结束效果。",
+      "每次洗牌时，你可以右键点击将你牌组中的一张卡牌移至顶部。",
+      "故障生物获得", "点攻击力和生命值。",
+      "每回合两次，你可以右键点击牺牲一个血量成本生物，并根据其血量成本添加等量的松鼠到手牌。",
+      "在战斗开始时，随机故障", "张你牌组中的卡牌。",
+      "故障卡牌",
+      "战斗开始时故障的卡牌将在这里列出。",
+      "选择一个效果使用。",
+      "选择一个效果添加到旧数据。"
+    ]
+  },
+  "leshy:ExoticPetFoodRelic": {
+    "NAME": "异域宠物食品",
+    "FLAVOR": "适用于非标准动物。",
+    "DESCRIPTIONS": [
+      "没有部族的生物获得1点攻击力和生命值。"
+    ]
+  },
+  "leshy:CawCawFaceRelic": {
+    "NAME": "呱呱面具",
+    "FLAVOR": "呱 呱呱呱呱！",
+    "DESCRIPTIONS": [
+      "没有部族的生物也算作鸟类。"
+    ]
+  },
+  "leshy:BottledOpossumRelic": {
+    "NAME": "瓶装负鼠",
+    "FLAVOR": "里面有一只冰冻的负鼠。可怜的东西。",
+    "DESCRIPTIONS": [
+      "拾取时，选择一张生物牌。每场战斗开始时，这张卡牌会在你的手牌中。",
+      "选择一张卡牌",
+      "每场战斗开始时，",
+      "会在你的手牌中。"
+    ]
+  },
+  "leshy:DeadSurvivorsRelic": {
+    "NAME": "死亡幸存者",
+    "FLAVOR": "咬得比他们能嚼的还多。",
+    "DESCRIPTIONS": [
+      "升级时生物属性增益翻倍。"
+    ]
+  },
+  "leshy:WolfSkullRelic": {
+    "NAME": "狼头骨",
+    "FLAVOR": "狼群力量强。",
+    "DESCRIPTIONS": [
+      "狼获得 #y领袖效果加倍。"
+    ]
+  },
+  "leshy:BullfighterCapeRelic": {
+    "NAME": "斗牛士斗篷",
+    "FLAVOR": "适用于想要激怒公牛的傻瓜。",
+    "DESCRIPTIONS": [
+      "野牛获得 #y双重 #y打击，并且每回合额外触发 #y狂暴者一次。"
+    ]
+  },
+  "leshy:GreenShellRelic": {
+    "NAME": "绿色壳",
+    "FLAVOR": "让人想起卡丁车。",
+    "DESCRIPTIONS": [
+      "河龟获得 #y装甲。"
+    ]
+  },
+  "leshy:MantisClawRelic": {
+    "NAME": "螳螂爪",
+    "FLAVOR": "让人想起卡丁车。",
+    "DESCRIPTIONS": [
+      "螳螂获得 #y双重 #y打击。"
+    ]
+  },
+  "leshy:RavenFeatherRelic": {
+    "NAME": "乌鸦羽毛",
+    "FLAVOR": "可能会是帽子上的好装饰。",
+    "DESCRIPTIONS": [
+      "乌鸦获得 #y囤积者。"
+    ]
+  },
+  "leshy:GhostFoodRelic": {
+    "NAME": "幽灵食品",
+    "FLAVOR": "现在你可以吃蛋糕，还能再吃一次。",
+    "DESCRIPTIONS": [
+      "带有瞬逝的生物获得2点生命值。"
+    ]
+  },
+   "leshy:SaplingRelic": {
+    "NAME": "树苗",
+    "FLAVOR": "这可能会长成一棵强大的橡树。",
+    "DESCRIPTIONS": [
+      "没有部族的生物在造成伤害时使用攻击力或生命值中的较高者。"
+    ]
+  },
+  "leshy:ArtOfSquirrelRelic": {
+    "NAME": "松鼠的艺术",
+    "FLAVOR": "那是谁，那么帅气的家伙？",
+    "DESCRIPTIONS": [
+      "如果你在你的回合中没有打出任何生物牌，下个回合获得额外的松鼠。"
+    ]
+  },
+  "leshy:SquirrelTeaSetRelic": {
+    "NAME": "松鼠茶具",
+    "FLAVOR": "享受一个清新夜晚的松鼠的关键。",
+    "DESCRIPTIONS": [
+      "每当你进入休息点，下一场战斗开始时带有额外的松鼠。"
+    ]
+  },
+  "leshy:BoneShieldRelic": {
+    "NAME": "骨盾",
+    "FLAVOR": "让自己被骨头的旋风包围。",
+    "DESCRIPTIONS": [
+      "右键点击，花费4个骨头获得2点格挡。"
+    ]
+  },
+  "leshy:InfestationRelic": {
+    "NAME": "虫害",
+    "FLAVOR": "蚂蚁。",
+    "DESCRIPTIONS": [
+      "非松鼠生物获得蚁穴。蚂蚁获得不死。"
+    ]
+  },
+  "leshy:DiscriminationRelic": {
+    "NAME": "歧视",
+    "FLAVOR": "撕裂社会。",
+    "DESCRIPTIONS": [
+      "不符合你图腾的生物失去2点攻击力和生命值。（生命值不能低于1）"
+    ]
+  },
+  "leshy:ScavengerRelic": {
+    "NAME": "清道夫",
+    "FLAVOR": "把你的爪子从我的生物骨头上拿开！",
+    "DESCRIPTIONS": [
+      "你不再获得骨头。"
+    ]
+  },
+  "leshy:BearTrapRelic": {
+    "NAME": "熊陷阱",
+    "FLAVOR": "哎呦。",
+    "DESCRIPTIONS": [
+      "最右边的生物不触发回合结束效果。"
+    ]
+  },
+  "leshy:GrudgeRelic": {
+    "NAME": "怨恨",
+    "FLAVOR": "他们会记住的。",
+    "DESCRIPTIONS": [
+      "当你牺牲一个生物支付血量成本时，给它故障。"
+    ]
+  },
+  "leshy:DrownedRelic": {
+    "NAME": "溺水",
+    "FLAVOR": "掉进了井里。",
+    "DESCRIPTIONS": [
+      "生物获得守护者。最右边的生物获得水生。"
+    ]
+  },
+  "leshy:StarvationRelic": {
+    "NAME": "饥饿",
+    "FLAVOR": "令人厌恶。",
+    "DESCRIPTIONS": [
+      "在你的回合开始时，如果你没有饥饿，召唤一个饥饿。（0/1，带有 #y水生，不能被牺牲）"
+    ]
+  },
+  "leshy:BoneLordsHornRelic": {
+    "NAME": "骨王的号角",
+    "FLAVOR": "为了骨王的恩惠付出代价。",
+    "DESCRIPTIONS": [
+      "每回合一次，你可以右键点击花费X并获得X个骨头。"
+    ]
+  },
+  "leshy:BloodBagRelic": {
+    "NAME": "血袋",
+    "FLAVOR": "有时你必须牺牲自己才能成功。",
+    "DESCRIPTIONS": [
+      "你可以打出你负担不起的血量成本的生物，并且每缺少1点血量就失去5点生命值。"
+    ]
+  },
+  "leshy:SugarCubesRelic": {
+    "NAME": "方糖",
+    "FLAVOR": "你知道你想要它。",
+    "DESCRIPTIONS": [
+      "你每回合召唤的第一个非瞬逝生物会被升级。"
+    ]
+  },
+  "leshy:BearMedallionRelic": {
+    "NAME": "熊勋章",
+    "FLAVOR": "包含了熊的精神。",
+    "DESCRIPTIONS": [
+      "在回合开始时，将一只带有虚无和瞬逝的灰熊添加到你的手牌。"
+    ]
+  },
+  "leshy:PliersRelic": {
+    "NAME": "钳子",
+    "FLAVOR": "包含了熊的精神。",
+    "DESCRIPTIONS": [
+      "右键点击，失去", "点生命值并获得一颗牙齿。"
+    ]
+  },
+  "leshy:WhistleRelic": {
+    "NAME": "哨子",
+    "FLAVOR": "响亮而有指挥力。",
+    "DESCRIPTIONS": [
+      "你可以右键点击一个敌人来 #y标记他们。"
+    ]
+  },
+  "leshy:HammerRelic": {
+    "NAME": "锤子",
+    "FLAVOR": "咚咚。",
+    "DESCRIPTIONS": [
+      "每回合一次，你可以右键点击牺牲一个生物并抽一张牌。"
+    ]
+  },
+  "leshy:HoneycombRelic": {
+    "NAME": "蜂巢",
+    "FLAVOR": "蜜蜂！给每个人！",
+    "DESCRIPTIONS": [
+      "每回合第一次失去生命值时，将一只蜜蜂添加到你的手牌。"
+    ]
+  }
+
+}

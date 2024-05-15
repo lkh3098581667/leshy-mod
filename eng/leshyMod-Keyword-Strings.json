@@ -1,0 +1,254 @@
+[
+  {
+    "NAMES": ["蚂蚁", "ant"],
+    "DESCRIPTION": "每有其他蚂蚁增加50%攻击力。"
+  },
+  {
+    "NAMES": ["缝合兽", "amalgam"],
+    "DESCRIPTION": "视为所有生物部族。"
+  },
+  {
+    "NAMES": ["空中单位", "airborne"],
+    "DESCRIPTION": "攻击造成生命值损失。"
+  },
+  {
+    "NAMES": ["分叉攻击", "bifurcated"],
+    "DESCRIPTION": "攻击两个敌人。"
+  },
+  {
+    "NAMES": ["三叉攻击", "trifurcated"],
+    "DESCRIPTION": "攻击三个敌人。"
+  },
+  {
+    "NAMES": ["雏形", "fledgling"],
+    "DESCRIPTION": "回合开始时，变为更好的形态或增加20%的属性。"
+  },
+  {
+    "PROPER_NAME": "生生不息",
+    "NAMES": ["生生不息", "many lives", "Many_Lives", "many_lives"],
+    "DESCRIPTION": "在被牺牲前可以支付9次血量成本。"
+  },
+  {
+    "PROPER_NAME": "优质祭品",
+    "NAMES": ["优质祭品", "worthy sacrifice", "Worthy_Sacrifice", "worthy_sacrifice"],
+    "DESCRIPTION": "用于支付血量成本时，此牺牲支付3点血量。覆盖无血状态。"
+  },
+  {
+    "PROPER_NAME": "骨王",
+    "NAMES": ["骨王", "bone king", "Bone_King", "bone_king"],
+    "DESCRIPTION": "额外获得3根骨头。"
+  },
+  {
+    "PROPER_NAME": "掘墓者",
+    "NAMES": ["掘墓者", "bone digger", "Bone_Digger", "bone_digger"],
+    "DESCRIPTION": "回合结束时，获得1根骨头。"
+  },
+  {
+    "PROPER_NAME": "兔子洞",
+    "NAMES": ["兔子洞", "rabbit hole", "Rabbit_Hole", "rabbit_hole"],
+    "DESCRIPTION": "召唤时，将一只兔子加入手牌。"
+  },
+  {
+    "NAMES": ["囤积者", "hoarder"],
+    "DESCRIPTION": "召唤时，将你抽牌堆中的一张卡放入你的手牌。"
+  },
+  {
+     "NAMES": ["臭臭", "stinky"],
+    "DESCRIPTION": "当这张卡在场上时，减少敌人1点攻击伤害。"
+  },
+  {
+    "NAMES": ["不死", "unkillable"],
+    "DESCRIPTION": "当被牺牲时，这张卡会被放回手牌而不是弃牌堆。不再提供骨头。覆盖瞬逝。"
+  },
+  {
+    "NAMES": ["多产", "fecundity"],
+    "DESCRIPTION": "当召唤时，添加一张带有瞬逝且没有多产的这张卡的复制到你的手牌。"
+  },
+  {
+    "NAMES": ["瞬逝", "transient"],
+    "DESCRIPTION": "当被杀死时，这张卡会被耗尽而不是放入你的弃牌堆。"
+  },
+  {
+    "NAMES": ["守护者", "guardian"],
+    "DESCRIPTION": "从手牌打出时召唤在最前面。"
+  },
+  {
+    "PROPER_NAME": "水生",
+    "NAMES": ["水生", "waterborne"],
+    "DESCRIPTION": "不再受到伤害。"
+  },
+  {
+    "NAMES": ["无血", "bloodless"],
+    "DESCRIPTION": "不能被牺牲用于血量成本。"
+  },
+  {
+    "NAMES": ["目标", "target"],
+    "DESCRIPTION": "生物优先攻击被标记的怪物。"
+  },
+  {
+    "NAMES": ["图腾", "totem"],
+    "DESCRIPTION": "图腾给予特定部族的生物一个特定的符印。新的图腾头或基座会覆盖之前的。"
+  },
+  {
+    "PROPER_NAME": "锋利刺",
+    "NAMES": ["锋利刺", "sharp quills", "Sharp_Quills", "sharp_quills"],
+    "DESCRIPTION": "当这张卡在场上时，获得3个荆棘。"
+  },
+  {
+    "PROPER_NAME": "死亡之触",
+    "NAMES": ["死亡之触", "touch of death", "Touch_of_Death", "touch_of_death"],
+    "DESCRIPTION": "攻击施加1层易伤。"
+  },
+  {
+    "NAMES": ["皮毛", "pelt"],
+    "DESCRIPTION": "在商店里时，你可以右键点击卖出获得金币。"
+  },
+  {
+    "PROPER_NAME": "全套",
+    "NAMES": ["全套", "full set", "Full_Set", "full_set", "Full Sets", "full sets", "Full_Sets", "full_sets"],
+    "DESCRIPTION": "你的主牌组中每个部族的一种生物。每种生物只能计算进一个全套。融合怪可以代替单个生物。"
+  },
+  {
+    "NAMES": ["强大", "powerful"],
+    "DESCRIPTION": "随机生物带有2个随机符印，根据显示卡牌的总血量成本升级。"
+  },
+  {
+    "PROPER_NAME": "内心之蜂",
+    "NAMES": ["内心之蜂", "bees within", "Bees_Within", "bees_within"],
+    "DESCRIPTION": "当受到伤害且你的手牌不满时，添加一张蜜蜂到你的手牌。"
+  },
+  {
+    "PROPER_NAME": "寄生繁殖",
+    "NAMES": ["寄生繁殖", "brood parasite", "Brood_Parasite", "brood_parasite"],
+    "DESCRIPTION": "当召唤时，对#y目标敌人施加破碎的蛋。他们造成的伤害减少50%，并防止下次受到伤害。"
+  },
+  {
+    "PROPER_NAME": "断尾求生",
+    "NAMES": ["断尾求生", "loose tail", "Loose_Tail", "loose_tail"],
+    "DESCRIPTION": "第一次死于伤害时，恢复多达6点生命值并移动到后面。"
+  },
+  {
+    "PROPER_NAME": "蚁穴",
+    "NAMES": ["蚁穴", "ant spawner", "Ant_Spawner", "ant_spawner"],
+    "DESCRIPTION": "当召唤时，添加一张带有瞬逝的工蚁到你的手牌。"
+  },
+  {
+    "PROPER_NAME": "囤积狂",
+    "NAMES": ["囤积狂", "trinket bearer", "Trinket_Bearer", "trinket_bearer"],
+    "DESCRIPTION": "每次战斗中第一次召唤这张卡时，获得一个随机药水。"
+  },
+  {
+    "NAMES": ["狂暴者", "rampager"],
+    "DESCRIPTION": "回合结束时，这张卡会向一个方向移动。"
+  },
+  {
+    "PROPER_NAME": "双重打击",
+    "NAMES": ["双重打击", "double strike", "Double_Strike", "double_strike"],
+    "DESCRIPTION": "额外攻击敌人一次。如果是分叉攻击，则攻击另一个敌人。"
+  },
+  {
+    "NAMES": ["装甲", "armored"],
+    "DESCRIPTION": "防止第一次受到的伤害。"
+  },
+  {
+    "NAMES": ["脆弱", "brittle"],
+    "DESCRIPTION": "在回合结束时死亡。"
+  },
+  {
+    "PROPER_NAME": "钟声使者",
+    "NAMES": ["钟声使者", "bell ringer", "Bell_Ringer", "bell_ringer"],
+    "DESCRIPTION": "根据距离右侧的空间增加12点攻击力。"
+  },
+  {
+     "PROPER_NAME": "卡牌计数器",
+    "NAMES": ["卡牌计数器", "card counter", "Card_Counter", "card_counter"],
+    "DESCRIPTION": "每有一张手牌，获得3点攻击力。"
+  },
+  {
+    "PROPER_NAME": "镜像",
+    "NAMES": ["镜像", "m!rror r0rrim", "M!rror_r0rriM", "m!rror_r0rrim"],
+    "DESCRIPTION": "攻击力等同于前一个生物的攻击力。"
+  },
+  {
+    "PROPER_NAME": "挑剔的幼体",
+    "NAMES": ["挑剔的幼体", "finical hatchling", "Finical_Hatchling", "finical_hatchling"],
+    "DESCRIPTION": "战斗开始时，如果你的主牌组中有每个部族的两套牌，就孵化。"
+  },
+  {
+    "NAMES": ["九头蛇", "hydra"],
+    "DESCRIPTION": "每有一套主牌组中的每个部族，获得3点攻击力和生命值。"
+  },
+  {
+    "PROPER_NAME": "双倍骨头",
+    "NAMES": ["双倍骨头", "double bones", "Double_Bones", "double_bones"],
+    "DESCRIPTION": "攻击力等于你骨头数量的两倍。"
+  },
+  {
+    "PROPER_NAME": "溢出的血液",
+    "NAMES": ["溢出的血液", "spilled blood", "Spilled_Blood", "spilled_blood"],
+    "DESCRIPTION": "每牺牲一个生物用于血量成本，本回合获得8点攻击力。"
+  },
+  {
+    "NAMES": ["衔尾蛇", "ouroboros"],
+    "DESCRIPTION": "死于伤害时，获得20%的攻击力和生命值。"
+  },
+  {
+    "PROPER_NAME": "杀戮幸存者",
+    "NAMES": ["杀戮幸存者", "kills survivors", "Kills_Survivors", "kills_survivors"],
+    "DESCRIPTION": "锻造时，从你的牌组中移除此牌，并获得死亡幸存者，一个能够双倍升级属性的遗物。"
+  },
+  {
+    "PROPER_NAME": "强力跳跃",
+    "NAMES": ["强力跳跃", "mighty leap", "Mighty_Leap", "mighty_leap"],
+    "DESCRIPTION": "当这个生物在场上时，获得1层人工制品。"
+  },
+  {
+    "NAMES": ["包", "pack"],
+    "DESCRIPTION": "包含一个松鼠，一个1血量成本，一个2血量成本，和一个骨头成本。"
+  },
+  {
+    "NAMES": ["无形之物", "amorphous"],
+    "DESCRIPTION": "战斗开始时，用一个随机新符印替换这个符印。"
+  },
+  {
+    "NAMES": ["领袖", "leader"],
+    "DESCRIPTION": "与这个生物同部族的其他生物获得4点攻击力。"
+  },
+  {
+    "PROPER_NAME": "魔法眼",
+    "NAMES": ["魔法眼", "magic eye", "Magic_Eye", "magic_eye"],
+    "DESCRIPTION": "一个能够授予发育不全的狼和胶卷的遗物。"
+  },
+  {
+    "PROPER_NAME": "筑坝者",
+    "NAMES": ["筑坝者", "dam builder", "Dam_Builder", "dam_builder"],
+    "DESCRIPTION": "召唤时，召唤2个大坝。"
+  },
+  {
+    "NAMES": ["故障", "glitch", "Glitched", "glitched"],
+    "DESCRIPTION": "隐藏卡牌的细节，只在可玩时显示。"
+  },
+  {
+    "PROPER_NAME": "选我选我",
+    "NAMES": ["选我选我", "pick me", "Pick_Me", "pick_me"],
+    "DESCRIPTION": "总是可以从神秘石头事件中获得符印。"
+  },
+  {
+    "PROPER_NAME": "慰藉松鼠",
+    "NAMES": ["慰藉松鼠", "consolation squirrel", "Consolation_Squirrel", "consolation_squirrel"],
+    "DESCRIPTION": "战斗开始时，每超过基线的最大[E]，获得一个额外的松鼠。"
+  }
+]
+
+
+
+
+
+
+
+
+
+
+
+
+
