@@ -1,0 +1,26 @@
+{
+        "leshy:HoggyBankPotion": {
+                "NAME": "存钱罐",
+                "DESCRIPTIONS": ["获得 ", " 骨头。"]
+        },
+        "leshy:MagickalBleachPotion": {
+                "NAME": "魔法漂白剂",
+                "DESCRIPTIONS": ["移除你所有的减益效果。"]
+        },
+        "leshy:HarpiesBirdlegFanPotion": {
+                "NAME": "鹰身女妖的鸟腿扇",
+                "DESCRIPTIONS": ["给予你的生物飞行能力。"]
+        },
+        "leshy:WiseclockPotion": {
+                "NAME": "智者时钟",
+                "DESCRIPTIONS": ["将最前面的生物移动到最后。"]
+        },
+        "leshy:NanoArmorGeneratorPotion": {
+                "NAME": "纳米装甲生成器",
+                "DESCRIPTIONS": ["获得 ", " 护盾。"]
+        },
+        "leshy:ToothPotion": {
+                "NAME": "牙齿",
+                "DESCRIPTIONS": ["造成 ", " 伤害或丢弃以获得 ", " 金币。"]
+        }
+}

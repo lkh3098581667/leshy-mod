@@ -1,0 +1,1009 @@
+{
+  "leshy:Sigils": {
+    "NAME": "符印",
+    "DESCRIPTION": "",
+    "EXTENDED_DESCRIPTION": [
+      "leshy:Airborne",
+      "leshy:Amorphous",
+      "leshy:Ant_Spawner",
+      "leshy:Armored",
+      "leshy:Bees_Within",
+      "leshy:Bifurcated",
+      "leshy:Bone_King",
+      "leshy:Bone_Digger",
+      "leshy:Brood_Parasite",
+      "leshy:Dam_Builder",
+      "leshy:Double_Strike",
+      "leshy:Fecundity",
+      "leshy:Fledgling",
+      "leshy:Guardian",
+      "leshy:Hoarder",
+      "leshy:Leader",
+      "leshy:Loose_Tail",
+      "leshy:Many_Lives",
+      "leshy:Mighty_Leap",
+      "leshy:Rabbit_Hole",
+      "leshy:Rampager", "Left", "Right",
+      "leshy:Sharp_Quills",
+      "leshy:Stinky",
+      "leshy:Touch_of_Death",
+      "leshy:Trifurcated",
+      "leshy:Trinket_Bearer",
+      "leshy:Unkillable",
+      "leshy:Waterborne",
+      "leshy:Worthy_Sacrifice"
+    ]
+  },
+  "leshy:Tribes": {
+    "NAME": "部落",
+    "DESCRIPTION": "",
+    "EXTENDED_DESCRIPTION": [
+      "生物",
+      "鸟类",
+      "犬类",
+      "有蹄类",
+      "昆虫",
+      "爬行动物",
+      "混合体",
+      "松鼠",
+      "leshy:Ant",
+      "leshy:Amalgam"
+    ]
+  },
+  "leshy:Misc": {
+    "NAME": "",
+    "DESCRIPTION": "",
+    "EXTENDED_DESCRIPTION": [
+     "leshy:Bloodless",
+      "leshy:Transient",
+      "Ethereal",
+      "Retain",
+      "Frail",
+      "Elder",
+      "leshy:Pelt !leshy:SecondMagic!",
+      "No empty orb slot",
+      "Glitch",
+      "Attack ",
+      "Health ",
+      "Blood ",
+      "Bone ",
+      "leshy:Consolation_Squirrel",
+      "leshy:Target"
+    ]
+  },
+  "leshy:Screens": {
+    "NAME": "",
+    "DESCRIPTION": "",
+    "EXTENDED_DESCRIPTION": [
+      "剩余血量成本 ",
+      "选择一个生物进行牺牲。",
+      "拿走融合怪？",
+      "加入一张到手牌。",
+      "将一张卡牌移至你的抽牌堆顶部。",
+      "选择一个图腾头。",
+      "选择 ", " 个图腾头。",
+      "改变一个生物的成本为骨头。",
+      "选择一个生物变成 ",
+      "选择多达 ", " 个生物。"
+    ]
+  },
+  "leshy:Stoat": {
+    "NAME": "白鼬",
+    "DESCRIPTION": "",
+    "EXTENDED_DESCRIPTION": [
+      "leshy:Pick_Me",
+      "我们开始吧",
+      "回到棋盘上",
+      "好的...",
+      "可以",
+      "糟糕的玩法",
+      "你确定？",
+      "完全失误",
+      "让我活下去",
+      "是的",
+      "幸运抽牌",
+      "不错的顶牌",
+      "又是我",
+      "是的",
+      "啊",
+      "别那样",
+      "哦",
+      "哎哟",
+      "够了！",
+      "嗯...",
+      "不行",
+      "不可能",
+      "绝对不行",
+      "停止这个",
+      "选择别的",
+      "拜托不要",
+      "你的选择",
+      "我会去",
+      "是我",
+      "选我",
+      "多大的荣誉",
+      "不错的选择",
+      "是吗？好吧",
+      "又一个符印...太好了..."
+    ]
+  },
+  "leshy:Squirrel": {
+    "NAME": "松鼠",
+    "DESCRIPTION": ""
+  },
+  "leshy:Aquasquirrel": {
+    "NAME": "水松鼠",
+    "DESCRIPTION": ""
+  },
+  "leshy:WorkerAnt": {
+    "NAME": "工蚁",
+    "DESCRIPTION": ""
+  },
+  "leshy:CagedWolf": {
+    "NAME": "笼中之狼",
+    "DESCRIPTION": "",
+    "EXTENDED_DESCRIPTION": [
+      "死亡时，永久替换为一只狼。"
+    ]
+  },
+  "leshy:Urayuli": {
+    "NAME": "长毛野人",
+    "DESCRIPTION": ""
+  },
+  "leshy:Kingfisher": {
+    "NAME": "翠鸟",
+    "DESCRIPTION": ""
+  },
+  "leshy:Stinkbug": {
+    "NAME": "臭虫",
+    "DESCRIPTION": "",
+    "EXTENDED_DESCRIPTION": [
+      "问候",
+      "幸运的抽牌",
+      "好的抽牌",
+      "死亡带我走！",
+      "那很疼！",
+      "我的肉体...",
+      "回到游戏中",
+      "精湛",
+      "我们开始吧？",
+      "太棒了！",
+      "好的操作",
+      "哦...",
+      "嗯",
+      "明智地选择",
+      "尽你所能！",
+      "选择权在你",
+      "尽你所能",
+      "你好",
+      "我是你的选择吗？",
+      "选择权在你",
+      "了不起",
+      "你好",
+      "我是你的选择吗？",
+      "赋予我力量！",
+      "是的！更多的力量！"
+    ]
+  },
+  "leshy:Cat": {
+    "NAME": "猫",
+    "DESCRIPTION": ""
+  },
+  "leshy:Wolf": {
+    "NAME": "狼",
+    "DESCRIPTION": ""
+  },
+  "leshy:RatKing": {
+    "NAME": "鼠王",
+    "DESCRIPTION": ""
+  },
+  "leshy:Scissors": {
+    "NAME": "剪刀",
+    "DESCRIPTION": "造成 !D! 点伤害 X 次。 NL 消耗"
+  },
+  "leshy:Dagger": {
+    "NAME": "匕首",
+    "DESCRIPTION": "失去 !M! HP。 NL 造成 !D! 点伤害。如果致命，获得 leshy:Magic_Eye。"
+  },
+  "leshy:Brawl": {
+    "NAME": "争斗",
+    "DESCRIPTION": "造成 !D! 点伤害。 NL 激活所有生物回合结束时的效果。 NL 消耗"
+  },
+  "leshy:BlackGoat": {
+    "NAME": "黑山羊",
+    "DESCRIPTION": ""
+  },
+  "leshy:Grizzly": {
+    "NAME": "灰熊",
+    "DESCRIPTION": ""
+  },
+  "leshy:Cockroach": {
+    "NAME": "蟑螂",
+    "DESCRIPTION": ""
+  },
+  "leshy:HoovedTotem": {
+    "NAME": "有蹄图腾",
+    "DESCRIPTION": "将有蹄类头添加到你的 leshy:Totem。"
+  },
+  "leshy:CanineTotem": {
+    "NAME": "犬类图腾",
+    "DESCRIPTION": "将犬类头添加到你的 leshy:Totem。"
+  },
+  "leshy:BifurcatedTotem": {
+    "NAME": "分叉图腾",
+    "DESCRIPTION": "将 leshy:Bifurcated 基座添加到你的 leshy:Totem。 NL 抽一张牌。",
+    "UPGRADE_DESCRIPTION": "固有 NL 将 leshy:Bifurcated 基座添加到你的 leshy:Totem。 NL 抽一张牌。"
+  },
+  "leshy:AirborneTotem": {
+    "NAME": "空中图腾",
+    "DESCRIPTION": "将 leshy:Airborne 基座添加到你的 leshy:Totem。 NL 抽一张牌。",
+    "UPGRADE_DESCRIPTION": "固有 NL 将 leshy:Airborne 基座添加到你的 leshy:Totem。 NL 抽一张牌。"
+  },
+  "leshy:AvianTotem": {
+    "NAME": "鸟类图腾",
+    "DESCRIPTION": "将鸟类头添加到你的 leshy:Totem。"
+  },
+  "leshy:InsectTotem": {
+    "NAME": "昆虫图腾",
+    "DESCRIPTION": "将昆虫头添加到你的 leshy:Totem。"
+  },
+  "leshy:ReptileTotem": {
+    "NAME": "爬行动物图腾",
+    "DESCRIPTION": "将爬行动物头添加到你的 leshy:Totem。"
+  },
+  "leshy:FledglingTotem": {
+    "NAME": "幼雏图腾",
+    "DESCRIPTION": "将 leshy:Fledgling 基座添加到你的 leshy:Totem。 NL 抽一张牌。",
+    "UPGRADE_DESCRIPTION": "固有 NL 将 leshy:Fledgling 基座添加到你的 leshy:Totem。 NL 抽一张牌。"
+  },
+  "leshy:BloodBagTotem": {
+    "NAME": "优质祭品图腾",
+    "DESCRIPTION": "将 leshy:Worthy_Sacrifice 基座添加到你的 leshy:Totem。 NL 抽一张牌。",
+    "UPGRADE_DESCRIPTION": "固有 NL 将 leshy:Worthy_Sacrifice 基座添加到你的 leshy:Totem。 NL 抽一张牌。"
+  },
+  "leshy:BoneKingTotem": {
+    "NAME": "骨王图腾",
+    "DESCRIPTION": "将 leshy:Bone_King 基座添加到你的 leshy:Totem。 NL 抽一张牌。",
+    "UPGRADE_DESCRIPTION": "固有 NL 将 leshy:Bone_King 基座添加到你的 leshy:Totem。 NL 抽一张牌。"
+  },
+  "leshy:HoarderTotem": {
+    "NAME": "囤积者图腾",
+    "DESCRIPTION": "将 leshy:Hoarder 基座添加到你的 leshy:Totem。 NL 抽一张牌。",
+    "UPGRADE_DESCRIPTION": "固有 NL 将 leshy:Hoarder 基座添加到你的 leshy:Totem。 NL 抽一张牌。"
+  },
+  "leshy:StinkyTotem": {
+    "NAME": "臭臭图腾",
+    "DESCRIPTION": "将 leshy:Stinky 基座添加到你的 leshy:Totem。 NL 抽一张牌。",
+    "UPGRADE_DESCRIPTION": "固有 NL 将 leshy:Stinky 基座添加到你的 leshy:Totem。 NL 抽一张牌。"
+  },
+  "leshy:UnkillableTotem": {
+    "NAME": "不死图腾",
+    "DESCRIPTION": "将 leshy:Unkillable 基座添加到你的 leshy:Totem。 NL 抽一张牌。",
+    "UPGRADE_DESCRIPTION": "固有 NL 将 leshy:Unkillable 基座添加到你的 leshy:Totem。 NL 抽一张牌。"
+  },
+  "leshy:FecundityTotem": {
+    "NAME": "繁殖图腾",
+    "DESCRIPTION": "将 leshy:Fecundity 基座添加到你的 leshy:Totem。 NL 抽一张牌。",
+    "UPGRADE_DESCRIPTION": "固有 NL 将 leshy:Fecundity 基座添加到你的 leshy:Totem。 NL 抽一张牌。"
+  },
+  "leshy:GuardianTotem": {
+    "NAME": "守护者图腾",
+    "DESCRIPTION": "将 leshy:Guardian 基座添加到你的 leshy:Totem。 NL 抽一张牌。",
+    "UPGRADE_DESCRIPTION": "固有 NL 将 leshy:Guardian 基座添加到你的 leshy:Totem。 NL 抽一张牌。"
+  },
+  "leshy:SharpQuillsTotem": {
+    "NAME": "锐刺图腾",
+    "DESCRIPTION": "将 leshy:Sharp_Quills 基座添加到你的 leshy:Totem。 NL 抽一张牌。",
+    "UPGRADE_DESCRIPTION": "固有 NL 将 leshy:Sharp_Quills 基座添加到你的 leshy:Totem。 NL 抽一张牌。"
+  },
+  "leshy:DeathtouchTotem": {
+    "NAME": "死亡之触图腾",
+    "DESCRIPTION": "将 leshy:Touch_of_Death 基座添加到你的 leshy:Totem。 NL 抽一张牌。",
+    "UPGRADE_DESCRIPTION": "固有 NL 将 leshy:Touch_of_Death 基座添加到你的 leshy:Totem。 NL 抽一张牌。"
+  },
+  "leshy:MightyLeapTotem": {
+    "NAME": "强力跳跃图腾",
+    "DESCRIPTION": "将 leshy:Mighty_Leap 基座添加到你的 leshy:Totem。 NL 抽一张牌。",
+    "UPGRADE_DESCRIPTION": "固有 NL 将 leshy:Mighty_Leap 基座添加到你的 leshy:Totem。 NL 抽一张牌。"
+  },
+  "leshy:WaterborneTotem": {
+    "NAME": "水生图腾",
+    "DESCRIPTION": "将 leshy:Waterborne 基座添加到你的 leshy:Totem。 NL 抽一张牌。",
+    "UPGRADE_DESCRIPTION": "固有 NL 将 leshy:Waterborne 基座添加到你的 leshy:Totem。 NL 抽一张牌。"
+  },
+  "leshy:DoubleStrikeTotem": {
+    "NAME": "双重打击图腾",
+    "DESCRIPTION": "将 leshy:Double_Strike 基座添加到你的 leshy:Totem。 NL 抽一张牌。",
+    "UPGRADE_DESCRIPTION": "固有 NL 将 leshy:Double_Strike 基座添加到你的 leshy:Totem。 NL 抽一张牌。"
+  },
+  "leshy:Porcupine": {
+    "NAME": "豪猪",
+    "DESCRIPTION": ""
+  },
+  "leshy:FieldMice": {
+    "NAME": "田鼠",
+    "DESCRIPTION": ""
+  },
+  "leshy:Bloodhound": {
+    "NAME": "寻血猎犬",
+    "DESCRIPTION": ""
+  },
+  "leshy:Ouroboros": {
+    "NAME": "衔尾蛇",
+    "DESCRIPTION": "",
+    "EXTENDED_DESCRIPTION": [
+      "leshy:Ouroboros"
+    ]
+  },
+  "leshy:Mantis": {
+    "NAME": "螳螂",
+    "DESCRIPTION": ""
+  },
+  "leshy:MantisGod": {
+    "NAME": "螳螂神",
+    "DESCRIPTION": ""
+  },
+  "leshy:Magpie": {
+    "NAME": "喜鹊",
+    "DESCRIPTION": ""
+  },
+  "leshy:AntQueen": {
+    "NAME": "蚁后",
+    "DESCRIPTION": ""
+  },
+  "leshy:Bee": {
+    "NAME": "蜜蜂",
+    "DESCRIPTION": ""
+  },
+  "leshy:Beehive": {
+    "NAME": "蜂巢",
+    "DESCRIPTION": ""
+  },
+  "leshy:Raven": {
+    "NAME": "渡鸦",
+    "DESCRIPTION": ""
+  },
+  "leshy:RavenEgg": {
+    "NAME": "渡鸦蛋",
+    "DESCRIPTION": ""
+  },
+  "leshy:TurkeyVulture": {
+    "NAME": "红头美洲鹫",
+    "DESCRIPTION": ""
+  },
+  "leshy:Lammergeier": {
+    "NAME": "秃鹫",
+    "DESCRIPTION": "",
+    "EXTENDED_DESCRIPTION": [
+      "leshy:Double_Bones"
+    ]
+  },
+  "leshy:Coyote": {
+    "NAME": "郊狼",
+    "DESCRIPTION": ""
+  },
+  "leshy:Amalgam": {
+    "NAME": "缝合兽",
+    "DESCRIPTION": ""
+  },
+  "leshy:MoleMan": {
+    "NAME": "鼹鼠人",
+    "DESCRIPTION": ""
+  },
+  "leshy:FlyingAnt": {
+    "NAME": "飞蚁",
+    "DESCRIPTION": ""
+  },
+  "leshy:Skink": {
+    "NAME": "石龙子",
+    "DESCRIPTION": ""
+  },
+  "leshy:RiverSnapper": {
+    "NAME": "鳄龟",
+    "DESCRIPTION": ""
+  },
+  "leshy:Rattler": {
+    "NAME": "响尾蛇",
+    "DESCRIPTION": ""
+  },
+  "leshy:Geck": {
+    "NAME": "壁虎",
+    "DESCRIPTION": ""
+  },
+  "leshy:GreatWhite": {
+    "NAME": "大白鲨",
+    "DESCRIPTION": "",
+    "EXTENDED_DESCRIPTION": [
+      "更大的白鲨"
+    ]
+  },
+  "leshy:BaitBucket": {
+    "NAME": "诱饵桶",
+    "DESCRIPTION": "",
+    "EXTENDED_DESCRIPTION": [
+      "死亡时，召唤一只大白鲨。"
+    ]
+  },
+  "leshy:TooFastTooSoon": {
+    "NAME": "剧情杀！小子",
+    "DESCRIPTION": "生命值高于一半时不可打出。 NL 牺牲你所有的生物。 NL 为每个栏位召唤一个带有 leshy:Mighty_Leap 和 leshy:Transient 的灰熊。 NL 消耗",
+    "UPGRADE_DESCRIPTION": "生命值高于一半时不可打出。 NL 牺牲你所有的生物。 NL 为每个栏位召唤一个带有 leshy:Mighty_Leap、leshy:Transient 以及额外 4 点攻击和生命的灰熊。 NL 消耗"
+  },
+  "leshy:Bullfrog": {
+    "NAME": "牛蛙",
+    "DESCRIPTION": ""
+  },
+  "leshy:Tadpole": {
+    "NAME": "蝌蚪",
+    "DESCRIPTION": ""
+  },
+  "leshy:Adder": {
+    "NAME": "蝰蛇",
+    "DESCRIPTION": ""
+  },
+  "leshy:RabbitPelt": {
+    "NAME": "兔皮",
+    "DESCRIPTION": ""
+  },
+  "leshy:WolfPelt": {
+    "NAME": "狼皮",
+    "DESCRIPTION": ""
+  },
+  "leshy:GoldenPelt": {
+    "NAME": "金皮",
+    "DESCRIPTION": ""
+  },
+  "leshy:Sparrow": {
+    "NAME": "麻雀",
+    "DESCRIPTION": ""
+  },
+  "leshy:RingWorm": {
+    "NAME": "环形虫",
+    "DESCRIPTION": "",
+    "EXTENDED_DESCRIPTION": [
+      "leshy:Kills_Survivors"
+    ]
+  },
+  "leshy:PeltLice": {
+    "NAME": "皮毛虱",
+    "DESCRIPTION": ""
+  },
+  "leshy:GoldNugget": {
+    "NAME": "金块",
+    "DESCRIPTION": ""
+  },
+  "leshy:StruckGold": {
+    "NAME": "卡里有金块！",
+    "DESCRIPTION": "牺牲任意数量的生物。召唤一个拥有它们当前生命值的金块。 NL 消耗",
+    "UPGRADE_DESCRIPTION": "牺牲任意数量的生物。召唤一个拥有它们当前生命值的金块。",
+    "EXTENDED_DESCRIPTION": [
+      "金子在哪里？"
+    ]
+  },
+  "leshy:Hydra": {
+    "NAME": "九头蛇",
+    "DESCRIPTION": "",
+    "EXTENDED_DESCRIPTION": [
+      "根据你主牌组中每一套每个部落的组合，获得 !M! 点攻击和生命。"
+    ]
+  },
+  "leshy:CuriousEgg": {
+    "NAME": "好奇的蛋",
+    "DESCRIPTION": "",
+    "EXTENDED_DESCRIPTION": [
+      "额外的好奇蛋",
+      "leshy:Finical_Hatchling",
+      "在获得卡牌、移除卡牌、战斗开始或右击此卡时更新。",
+      "完整套装",
+      "完整套装追踪器"
+    ]
+  },
+  "leshy:Cuckoo": {
+    "NAME": "布谷鸟",
+    "DESCRIPTION": ""
+  },
+  "leshy:Mothman": {
+    "NAME": "飞蛾人",
+    "DESCRIPTION": "",
+    "EXTENDED_DESCRIPTION": [
+      "最终形态"
+    ]
+  },
+  "leshy:StrangeLarva": {
+    "NAME": "奇怪的幼虫",
+    "DESCRIPTION": ""
+  },
+  "leshy:StrangePupa": {
+    "NAME": "奇怪的蛹",
+    "DESCRIPTION": ""
+  },
+  "leshy:GoFish": {
+    "NAME": "鱼钩",
+    "DESCRIPTION": "将一个生物返回手牌。",
+    "UPGRADE_DESCRIPTION": "保留 NL 将一个生物返回手牌。",
+    "EXTENDED_DESCRIPTION": [
+      "鱼在哪里？"
+    ]
+  },
+  "leshy:Alpha": {
+    "NAME": "头狼",
+    "DESCRIPTION": "",
+    "EXTENDED_DESCRIPTION": [
+      "欧米茄"
+    ]
+  },
+  "leshy:Smoke": {
+    "NAME": "烟雾",
+    "DESCRIPTION": ""
+  },
+  "leshy:UndeadCat": {
+    "NAME": "不死猫",
+    "DESCRIPTION": ""
+  },
+  "leshy:PackRat": {
+    "NAME": "旅鼠",
+    "DESCRIPTION": ""
+  },
+  "leshy:Skunk": {
+    "NAME": "臭鼬",
+    "DESCRIPTION": ""
+  },
+  "leshy:RiverOtter": {
+    "NAME": "水獭",
+    "DESCRIPTION": ""
+  },
+  "leshy:Bat": {
+    "NAME": "蝙蝠",
+    "DESCRIPTION": ""
+  },
+  "leshy:MirrorTentacle": {
+    "NAME": "镜像触手",
+    "DESCRIPTION": "",
+    "EXTENDED_DESCRIPTION": [
+      "leshy:M!rror_r0rriM"
+    ]
+  },
+  "leshy:SkeletonCrew": {
+    "NAME": "骷髅船员",
+    "DESCRIPTION": "",
+    "EXTENDED_DESCRIPTION": [
+      "leshy:Brittle"
+    ]
+  },
+  "leshy:TheMoon": {
+    "NAME": "月亮",
+    "DESCRIPTION": "",
+    "EXTENDED_DESCRIPTION": [
+      "攻击所有敌人。在 !leshy:SecondMagic! 生命值以下执行攻击。 NL 死亡时，死亡。"
+    ]
+  },
+  "leshy:StuntedWolf": {
+    "NAME": "弱狼",
+    "DESCRIPTION": "",
+    "EXTENDED_DESCRIPTION": [
+      "我们在这里",
+      "你确定吗？",
+      "我必须信任你",
+      "明智地使用我",
+      "小心点",
+      "哎呦",
+      "天啊！",
+      "我们又见面了",
+      "问候",
+      "你好，又见面了",
+      "咳咳",
+      "如果你必须",
+      "这是你的选择",
+      "咳咳",
+      "我在你的服务",
+      "我是你的",
+      "...",
+      "明智地选择",
+      "我昔日荣耀的一丝味道",
+      "很好",
+      "所有生物获得 ", "。抽到时随机变化。"
+    ]
+  },
+  "leshy:DeathCard": {
+    "NAME": "死亡卡",
+    "DESCRIPTION": ""
+  },
+  "leshy:FilmRoll": {
+    "NAME": "胶卷",
+    "DESCRIPTION": "使用你的主牌组制作一张死亡卡。 NL 消耗",
+    "EXTENDED_DESCRIPTION": [
+      "主牌组需要 3 个生物",
+      "选择成本",
+      "选择符印",
+      "选择属性"
+    ]
+  },
+  "leshy:Opossum": {
+    "NAME": "负鼠",
+    "DESCRIPTION": "",
+    "EXTENDED_DESCRIPTION": [
+      "了不起的负鼠"
+    ]
+  },
+  "leshy:StrangeFrog": {
+    "NAME": "奇异青蛙",
+    "DESCRIPTION": "",
+    "EXTENDED_DESCRIPTION": [
+      "死亡时在前方召唤一个跳跃陷阱。",
+      "拥有 3X 生命值。"
+    ]
+  },
+   "leshy:LeapingTrap": {
+    "NAME": "跳跃陷阱",
+    "DESCRIPTION": "",
+    "EXTENDED_DESCRIPTION": [
+      "死亡时对所有敌人造成 4X 伤害。",
+      "死亡时对所有敌人造成 !leshy:SecondMagic! 伤害。"
+    ]
+  },
+  "leshy:Starvation": {
+    "NAME": "饥饿",
+    "DESCRIPTION": "",
+    "EXTENDED_DESCRIPTION": [
+      "不能被牺牲。"
+    ]
+  },
+  "leshy:DireWolfPup": {
+    "NAME": "冰原狼幼崽",
+    "DESCRIPTION": ""
+  },
+  "leshy:DireWolf": {
+    "NAME": "冰原狼",
+    "DESCRIPTION": ""
+  },
+  "leshy:Mole": {
+    "NAME": "鼹鼠",
+    "DESCRIPTION": ""
+  },
+  "leshy:GrandFir": {
+    "NAME": "巨杉",
+    "DESCRIPTION": "",
+    "EXTENDED_DESCRIPTION": [
+      "回合结束时获得 !leshy:SecondMagic! 生命值。"
+    ]
+  },
+  "leshy:PackMule": {
+    "NAME": "行囊骡",
+    "DESCRIPTION": "",
+    "EXTENDED_DESCRIPTION": [
+      "死亡时，从 leshy:Pack 中选择一个生物添加到手牌。"
+    ]
+  },
+  "leshy:LongElk": {
+    "NAME": "长身麋鹿",
+    "DESCRIPTION": "",
+    "EXTENDED_DESCRIPTION": [
+      "更长的鹿",
+      "回合结束时，将一根脊椎骨添加到手牌。"
+    ]
+  },
+  "leshy:Vertebrae": {
+    "NAME": "脊椎骨",
+    "DESCRIPTION": ""
+  },
+  "leshy:StrangeFrogs": {
+    "NAME": "奇异青蛙",
+    "DESCRIPTION": "召唤 !M! 只奇异青蛙。 NL 消耗",
+    "UPGRADE_DESCRIPTION": "召唤 !M! 只奇异青蛙。"
+  },
+  "leshy:RedHart": {
+    "NAME": "红鹿",
+    "DESCRIPTION": "",
+    "EXTENDED_DESCRIPTION": [
+      "leshy:Spilled_Blood"
+    ]
+  },
+  "leshy:WisdomBifurcated": {
+    "NAME": "分叉",
+    "DESCRIPTION": ""
+  },
+  "leshy:WisdomAirborne": {
+    "NAME": "空袭",
+    "DESCRIPTION": ""
+  },
+  "leshy:WisdomTrifurcated": {
+    "NAME": "三叉",
+    "DESCRIPTION": ""
+  },
+  "leshy:WisdomFledgling": {
+    "NAME": "雏鸟",
+    "DESCRIPTION": ""
+  },
+  "leshy:WisdomManyLives": {
+    "NAME": "生生不息",
+    "DESCRIPTION": ""
+  },
+  "leshy:WisdomWorthySacrifice": {
+    "NAME": "优质祭品",
+    "DESCRIPTION": ""
+  },
+  "leshy:WisdomBoneKing": {
+    "NAME": "骨王",
+    "DESCRIPTION": ""
+  },
+  "leshy:WisdomHoarder": {
+    "NAME": "囤积者",
+    "DESCRIPTION": ""
+  },
+  "leshy:WisdomStinky": {
+    "NAME": "臭臭",
+    "DESCRIPTION": ""
+  },
+  "leshy:WisdomUnkillable": {
+    "NAME": "不死",
+    "DESCRIPTION": ""
+  },
+  "leshy:WisdomFecundity": {
+    "NAME": "繁殖",
+    "DESCRIPTION": ""
+  },
+  "leshy:WisdomWaterborne": {
+    "NAME": "水生",
+    "DESCRIPTION": ""
+  },
+  "leshy:WisdomGuardian": {
+    "NAME": "守护者",
+    "DESCRIPTION": ""
+  },
+  "leshy:WisdomSharpQuills": {
+    "NAME": "锐刺",
+    "DESCRIPTION": ""
+  },
+  "leshy:WisdomTouchOfDeath": {
+    "NAME": "死亡之触",
+    "DESCRIPTION": ""
+  },
+  "leshy:WisdomBeesWithin": {
+    "NAME": "内心之蜂",
+    "DESCRIPTION": ""
+  },
+  "leshy:WisdomBroodParasite": {
+    "NAME": "寄生繁殖",
+    "DESCRIPTION": ""
+  },
+  "leshy:WisdomLooseTail": {
+    "NAME": "断尾求生",
+    "DESCRIPTION": ""
+  },
+  "leshy:WisdomAntSpawner": {
+    "NAME": "蚁穴",
+    "DESCRIPTION": ""
+  },
+  "leshy:WisdomTrinketBearer": {
+    "NAME": "囤积狂",
+    "DESCRIPTION": ""
+  },
+  "leshy:WisdomRampager": {
+    "NAME": "狂暴者",
+    "DESCRIPTION": ""
+  },
+  "leshy:WisdomDoubleStrike": {
+    "NAME": "双重打击",
+    "DESCRIPTION": ""
+  },
+  "leshy:WisdomArmored": {
+    "NAME": "装甲",
+    "DESCRIPTION": ""
+  },
+  "leshy:WisdomMightyLeap": {
+    "NAME": "强力跳跃",
+    "DESCRIPTION": ""
+  },
+  "leshy:WisdomBoneDigger": {
+    "NAME": "掘墓者",
+    "DESCRIPTION": ""
+  },
+  "leshy:WisdomRabbitHole": {
+    "NAME": "兔子洞",
+    "DESCRIPTION": ""
+  },
+  "leshy:WisdomAmorphous": {
+    "NAME": "无形之物",
+    "DESCRIPTION": ""
+  },
+  "leshy:WisdomDamBuilder": {
+    "NAME": "筑坝者",
+    "DESCRIPTION": ""
+  },
+  "leshy:WisdomLeader": {
+    "NAME": "领袖",
+    "DESCRIPTION": ""
+  },
+  "leshy:TrialOfWisdom": {
+    "NAME": "智慧试炼",
+    "DESCRIPTION": "展示你牌组顶部的3张牌。从中选择一个符印给予一个生物。 NL 消耗",
+    "UPGRADE_DESCRIPTION": "展示你牌组顶部的3张牌。从中选择一个符印给予一个生物。",
+    "EXTENDED_DESCRIPTION": [
+      "选择一个生物给予符印。",
+      "选择一个符印。"
+    ]
+  },
+  "leshy:TrialOfKin": {
+    "NAME": "血缘试炼",
+    "DESCRIPTION": "展示你牌组顶部的3张牌。如果有2张或更多共享一个部落，将它们放入你的手牌。 NL 消耗",
+    "UPGRADE_DESCRIPTION": "展示你牌组顶部的3张牌。如果有2张或更多共享一个部落，将它们放入你的手牌。"
+  },
+  "leshy:TrialOfRarity": {
+    "NAME": "稀有试炼",
+    "DESCRIPTION": "展示你牌组顶部的3张牌。如果有稀有卡，选择3个随机恩惠中的1个。 NL 消耗",
+    "UPGRADE_DESCRIPTION": "固有 NL 展示你牌组顶部的3张牌。如果有稀有卡，选择3个随机恩惠中的1个。 NL 消耗",
+    "EXTENDED_DESCRIPTION": [
+      "选择一个恩惠。"
+    ]
+  },
+  "leshy:BoonOfGoatsBlood": {
+    "NAME": "山羊之血",
+    "DESCRIPTION": "召唤一只黑山羊。"
+  },
+  "leshy:BoonOfTheAmbidextrous": {
+    "NAME": "双手灵巧",
+    "DESCRIPTION": "每回合额外抽一张牌。"
+  },
+  "leshy:BoonOfTheBoneLord": {
+    "NAME": "骨王",
+    "DESCRIPTION": "获得8个骨头。"
+  },
+  "leshy:BoonOfTheForest": {
+    "NAME": "森林",
+    "DESCRIPTION": "为每个空的栏位召唤一棵巨杉。"
+  },
+  "leshy:BoonOfTheMagpiesEye": {
+    "NAME": "喜鹊之眼",
+    "DESCRIPTION": "每回合少抽一张牌。在每回合开始时，从你的抽牌堆中将一张牌放入你的手牌。"
+  },
+  "leshy:TrialOfBlood": {
+    "NAME": "血液试炼",
+    "DESCRIPTION": "展示你牌组顶部的3张牌。如果它们的总血液成本是4或更多，选择3个 leshy:Powerful 生物中的1个来召唤。 NL 消耗",
+    "UPGRADE_DESCRIPTION": "展示你牌组顶部的3张牌。如果它们的总血液成本是4或更多，选择3个 leshy:Powerful 生物中的1个来召唤。",
+    "EXTENDED_DESCRIPTION": [
+      "展示的卡牌。",
+      "召唤一个带有 瞬逝 的复制品。"
+    ]
+  },
+  "leshy:HandTentacle": {
+    "NAME": "手牌触手",
+    "DESCRIPTION": "",
+    "EXTENDED_DESCRIPTION": [
+      "leshy:Card_Counter"
+    ]
+  },
+  "leshy:Boulder": {
+    "NAME": "巨石",
+    "DESCRIPTION": ""
+  },
+  "leshy:MudTurtle": {
+    "NAME": "东方泥龟",
+    "DESCRIPTION": ""
+  },
+  "leshy:Elk": {
+    "NAME": "麋鹿",
+    "DESCRIPTION": ""
+  },
+  "leshy:MooseBuck": {
+    "NAME": "驼鹿",
+    "DESCRIPTION": ""
+  },
+  "leshy:WildBull": {
+    "NAME": "野牛",
+    "DESCRIPTION": ""
+  },
+  "leshy:ElkFawn": {
+    "NAME": "麋鹿幼崽",
+    "DESCRIPTION": ""
+  },
+  "leshy:Pronghorn": {
+    "NAME": "叉角羚",
+    "DESCRIPTION": ""
+  },
+  "leshy:WolfCub": {
+    "NAME": "狼崽",
+    "DESCRIPTION": ""
+  },
+  "leshy:BellTentacle": {
+    "NAME": "钟触手",
+    "DESCRIPTION": "",
+    "EXTENDED_DESCRIPTION": [
+      "leshy:Bell_Ringer"
+    ]
+  },
+  "leshy:Warren": {
+    "NAME": "兔窝",
+    "DESCRIPTION": ""
+  },
+  "leshy:Rabbit": {
+    "NAME": "兔子",
+    "DESCRIPTION": ""
+  },
+   "leshy:Amoeba": {
+    "NAME": "阿米巴原虫",
+    "DESCRIPTION": ""
+  },
+  "leshy:Beaver": {
+    "NAME": "海狸",
+    "DESCRIPTION": ""
+  },
+  "leshy:Dam": {
+    "NAME": "水坝",
+    "DESCRIPTION": "",
+    "EXTENDED_DESCRIPTION": [
+      "天啊，水坝"
+    ]
+  },
+  "leshy:Glitch": {
+    "NAME": "故障",
+    "DESCRIPTION": "战斗开始时，随机对你牌组中的一个生物进行leshy:Glitch并使此卡消耗。"
+  },
+  "leshy:Knife": {
+    "NAME": "刀",
+    "DESCRIPTION": "造成 !D!X 伤害。如果致命，获得一个 leshy:Pelt。 NL 消耗"
+  },
+  "leshy:Roadkill": {
+    "NAME": "路杀",
+    "DESCRIPTION": "抽到此卡时，如果你手牌中有松鼠，使一只松鼠和此卡消耗。"
+  },
+  "leshy:OldDataHead": {
+    "NAME": "刻耳柏洛斯",
+    "DESCRIPTION": "木雕面具为你的图腾添加3个图腾头。"
+  },
+  "leshy:OldDataLeft": {
+    "NAME": "额外攻击",
+    "DESCRIPTION": "最左边栏位中的生物触发额外一次回合结束效果。"
+  },
+  "leshy:OldDataTop": {
+    "NAME": "牌组堆叠",
+    "DESCRIPTION": "每次洗牌时，你可以右键点击将你牌组中的一张牌移至顶部。"
+  },
+  "leshy:OldDataStatic": {
+    "NAME": "故障卡牌",
+    "DESCRIPTION": "leshy:Glitched 生物获得 !M! 攻击和生命值。（叠加）"
+  },
+  "leshy:OldDataSacrifice": {
+    "NAME": "以血还血",
+    "DESCRIPTION": "每回合两次，你可以右键点击牺牲一个血液成本生物，并根据其血液成本获得相等数量的松鼠到手牌。"
+  },
+  "leshy:Cody": {
+    "NAME": "科迪",
+    "DESCRIPTION": ""
+  },
+  "leshy:David": {
+    "NAME": "大卫",
+    "DESCRIPTION": ""
+  },
+  "leshy:Kaminski": {
+    "NAME": "卡明斯基",
+    "DESCRIPTION": ""
+  },
+  "leshy:Kaycee": {
+    "NAME": "凯西",
+    "DESCRIPTION": ""
+  },
+  "leshy:Louis": {
+    "NAME": "路易",
+    "DESCRIPTION": ""
+  },
+  "leshy:Reginald": {
+    "NAME": "雷金纳德",
+    "DESCRIPTION": ""
+  },
+  "leshy:LukeCarder": {
+    "NAME": "卢克·卡德",
+    "DESCRIPTION": ""
+  },
+  "leshy:Oct19": {
+    "NAME": "10月19日",
+    "DESCRIPTION": ""
+  },
+  "leshy:Sean": {
+    "NAME": "肖恩",
+    "DESCRIPTION": ""
+  },
+  "leshy:Tamara": {
+    "NAME": "塔玛拉",
+    "DESCRIPTION": ""
+  }
+}
